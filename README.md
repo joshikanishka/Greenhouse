@@ -1,2 +1,2 @@
-# Automated-Green-House
-This is minor project which is use to manage green house remotely with help of Android App. This project is mostly focused on working of ESP32.
+# IoT-Based Wireless Controllable Greenhouse
+This project focuses on developing an IoT-based wireless controllable greenhouse using the ESP32 microcontroller. The system allows for remote monitoring and control of the greenhouse environment, including automatic water supply based on soil humidity and airflow regulation based on temperature. This enhances the efficiency and ease of access to managing greenhouse conditions, ensuring optimal plant growth.
