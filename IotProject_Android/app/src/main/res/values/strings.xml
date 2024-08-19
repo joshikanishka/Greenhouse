@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Green House</string>
+    <string name="iot_project">Iot Project</string>
+    <string name="water_pump">Water Pump</string>
+    <string name="temperature">Temperature</string>
+    <string name="humidity">Humidity</string>
+    <string name="soil_humidity">Soil Humidity</string>
+    <string name="ventilation">Ventilation</string>
+    <array name="options">
+        <item>Off</item>
+        <item>On</item>
+    </array>
+</resources>

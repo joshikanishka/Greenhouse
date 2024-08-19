@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "143014144319",
+    "firebase_url": "https://projects-3rd-year-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "projects-3rd-year",
+    "storage_bucket": "projects-3rd-year.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:143014144319:android:404a924d7b7638b2fb4b8a",
+        "android_client_info": {
+          "package_name": "com.example.iotproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "143014144319-hgcjaj6ilvof4k1se6s2d1f2im5q1abm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjjkBUNSBL9ScYEFGXXJzf2YYrYH8RwlY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "143014144319-hgcjaj6ilvof4k1se6s2d1f2im5q1abm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
